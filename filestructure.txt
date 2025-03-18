@@ -1,0 +1,6 @@
+|-- .ipynb_checkpoints
+    |-- e-commerece-checkpoint.ipynb
+    |-- Untitled1-checkpoint.ipynb
+|-- data.csv
+|-- e-commerece.ipynb
+|-- model.pkl
